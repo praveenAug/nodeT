@@ -1,0 +1,8 @@
+create a server using express
+create routes with Get - /users - send html
+crate routes with Get - api/users - send json Data
+crate routes with multiple id Get - api/users/:id -send json Data
+
+crate routes with Post - api/users - json Data
+crate routes with Patch - api/users/:id - json Data
+crate routes with Delete - api/users/:id - json Data
